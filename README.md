@@ -77,6 +77,8 @@ pip install -r requirements.txt
 4. Execute a aplicação:
 streamlit run app.py
 
+---
+
 ## ⚠️ Observação 
 
 Este projeto está totalmente funcional, porém a execução completa depende de créditos ativos na API da OpenAI.
@@ -85,11 +87,15 @@ Caso não haja créditos disponíveis, a chamada para geração de resposta pode
 
 O código e a arquitetura foram testados e validados até a etapa de integração com a API.
 
+---
+
 💡 Possíveis melhorias futuras
 Integração com IA generativa
 Personalização baseada no usuário
 Dashboard com gráficos financeiros
 Entrada dinâmica de valores (ex: "investir 300 por mês")
+
+---
 
 ⭐ Diferencial do projeto
 
