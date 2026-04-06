@@ -65,16 +65,19 @@ finai/
 ## ▶️ Como executar o projeto
 
 1. Clone o repositório:
-```bash
+
 git clone https://github.com/seu-usuario/finai-assistente-financeiro.git
 
 2. Acesse a pasta:
+
 cd finai-assistente-financeiro
 
 3. Instale as dependências:
+
 pip install -r requirements.txt
 
 4. Execute a aplicação:
+
 streamlit run app.py
 
 ---
